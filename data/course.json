@@ -1,0 +1,34 @@
+{
+  "term": "Summer",
+  "year": "2020",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "ibrahim-course-one"
+  },
+  "course_image": {
+    "content": "",
+    "website": "ibrahim-course-one"
+  },
+  "course_title": "ibrahim-course-one",
+  "hide_download": false,
+  "course_description": "ibrahim-course-one",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "108",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "ibrahim-course-one"
+  },
+  "learning_resource_types": [
+    "Competition Videos"
+  ],
+  "site_uid": "060440db-8d97-4a10-9c0d-956aef662974",
+  "site_short_id": "ibrahim-course-one"
+}
